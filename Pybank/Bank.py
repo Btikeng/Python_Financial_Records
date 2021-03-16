@@ -1,6 +1,6 @@
-import os
-import csv
- = ("budget_data.csv")
+import os, csv
+from pathlib import Path
+file = Path("budget_data.csv")
 profit = []
 profitDifference = []
 months = []
@@ -40,6 +40,3 @@ with open(output_file, "w") as file:
     file.write(f"Greatest Increase in Profits: {months[MaxIncMonth]} (${(str(MaxIncValue))})")
     file.write("\n")
     file.write(f"Greatest Decrease in Profits: {months[MaxDecMonth]} (${(str(MaxDecValue))})")
-
-
-        
