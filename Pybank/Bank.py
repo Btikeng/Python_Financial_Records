@@ -4,7 +4,7 @@ file = Path("budget_data.csv")
 profit = []
 profitDifference = []
 months = []
-with open(file, newline="", encoding="utf-8") as budget:
+with open(file, newline = "", encoding = "utf-8") as budget:
     reader = csv.reader(budget, delimiter=",")
     head = next(reader)
     for row in reader:
