@@ -32,6 +32,8 @@ In this challenge, you are tasked with creating a Python script for analyzing th
 
 Your task is to create a Python script that analyzes the records to calculate each of the following:
 
+![image](https://user-images.githubusercontent.com/78287535/127754359-6242b190-9a09-465e-913d-c9453482dace.png)
+
 
 The total number of months included in the dataset
 
@@ -71,7 +73,10 @@ PyPoll
 In this challenge, you are tasked with helping a small, rural town modernize its vote counting process.
 
 
-You will be give a set of poll data called election_data.csv. The dataset is composed of three columns: Voter ID, County, and Candidate. Your task is to create a Python script that analyzes the votes and calculates each of the following:
+You will be give a set of poll data called election_data.csv. The dataset is composed of three columns: Voter ID, County, and Candidate.
+Your task is to create a Python script that analyzes the votes and calculates each of the following:
+![image](https://user-images.githubusercontent.com/78287535/127754370-79d0e343-7970-4fba-97c8-60657473732a.png)
+
 
 
 The total number of votes cast
