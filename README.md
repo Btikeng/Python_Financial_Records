@@ -1,5 +1,8 @@
 # Python_Financial_Records #
 
+
+*Summary*
+
 The purpose of this task is to create a Python script that analyzes the Financial records of an organization using set of financial data called **budget_data.csv.** The dataset is composed of two columns: Date and Profit/Losses.
 
 Creating a Python script that analyzes the records is to calculate each of the following:
@@ -74,11 +77,10 @@ Our final script should both print the analysis to the terminal and export a tex
 
 
 
-In this challenge, you are tasked with helping a small, rural town modernize its vote counting process.
+our task here is to help small rural town modernizing its vote counting process.
 
-
-You will be give a set of poll data called election_data.csv. The dataset is composed of three columns: Voter ID, County, and Candidate.
-Your task is to create a Python script that analyzes the votes and calculates each of the following:
+The dataset is election_data.csv, composed of three columns: Voter ID, County, and Candidate.
+Our task is to create a Python script that analyzes the votes and calculates each of the following:
 ![image](https://user-images.githubusercontent.com/78287535/127754370-79d0e343-7970-4fba-97c8-60657473732a.png)
 
 
